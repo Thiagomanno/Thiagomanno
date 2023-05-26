@@ -4,7 +4,6 @@
 </head>
 <body>
   <h1>Perfil de Desenvolvedor Iniciante</h1>
-  
   <h2>Trabalhos em andamento</h2>
   <ul>
     <li>HTML Iniciante</li>
