@@ -4,6 +4,7 @@
 </head>
 <body>
   <h1>Perfil de Desenvolvedor Iniciante</h1>
+  <p>Sou um desenvolvedor iniciante com conhecimentos básicos em HTML, CSS e JavaScript. Atualmente, estou buscando oportunidades para desenvolver minhas habilidades e adquirir experiência prática em projetos reais.<p>
   <h2>Trabalhos em andamento</h2>
   <ul>
     <li>HTML Iniciante</li>
