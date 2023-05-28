@@ -13,6 +13,8 @@
     <li>HTML Iniciante</li>
     <li>CSS Iniciante</li>
     <li>JavaScript Iniciante</li>
+      <a href="https://consultaseguros.com.br">Exemplo: Consultaseguros.com.br</a>
+
   </ul>
   <p>Atualmente, também estou aprendendo um pouco de Python.</p>
   
