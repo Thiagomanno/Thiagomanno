@@ -14,6 +14,7 @@
     <li>CSS Iniciante</li>
     <li>JavaScript Iniciante</li>
       <a href="https://consultaseguros.com.br">Exemplo: Consultaseguros.com.br</a>
+       <a href="https://belezacuidado2023.com.br">Exemplo: belezacuidado2023.com.br</a>
 
   </ul>
   <p>Atualmente, também estou aprendendo um pouco de Python.</p>
