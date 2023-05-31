@@ -14,10 +14,7 @@
     <li>HTML Iniciante</li>
     <li>CSS Iniciante</li>
     <li>JavaScript Iniciante</li>
-     <p><a href="https://consultaseguros.com.br">Exemplo: Consultaseguros.com.br</a></p>
-      <p><a href="https://belezacuidado2023.com.br">Exemplo: belezacuidado2023.com.br</a></p>
-
-  </ul>
+ </ul>
   <p>Atualmente, também estou aprendendo um pouco de Python.</p>
   
   <h2>Exemplos de Projetos</h2>
