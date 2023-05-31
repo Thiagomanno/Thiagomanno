@@ -12,9 +12,9 @@ Olá! Sou Thiago Manno, um desenvolvedor iniciante com conhecimentos básicos em
 - CSS Iniciante
 - JavaScript Iniciante
 - Exemplos:
-- <br>https://consultaseguros.com.br/<br>
-- <br>https://www.belezacuidado2023.com.br<br>
-- <br>https://adegadovovo.com.br<br>
+<br>https://consultaseguros.com.br/<br>
+<br>https://www.belezacuidado2023.com.br<br>
+<br>https://adegadovovo.com.br<br>
 
 
 Atualmente, também estou aprendendo um pouco de Python.
