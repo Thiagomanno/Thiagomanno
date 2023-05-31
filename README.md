@@ -8,6 +8,7 @@
 <p><p>
   <h2>Formação</h2>
     <li> Analise de denvolvimento de Sistemas - Universidade Cruzeiro do sul "1° Semestre"</li> 
+  
   <h2>Trabalhos em andamento</h2>
   <ul>
     <li>HTML Iniciante</li>
