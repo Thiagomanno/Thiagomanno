@@ -45,7 +45,7 @@ Você pode conhecer mais sobre mim e meus projetos acessando o meu site pessoal 
 
 Aqui estão alguns dos meus trabalhos e criações:
 
-1. ![Quadrado 1](link_para_sua_criacao_1.png)
+1. ![Quadrado 1](thiagomanno_numa_sala_programando_junto_com_outros_em_desenhos__094c04d1-596f-4c53-bc33-758ea7cace3d.png)
 2. ![Quadrado 2](link_para_sua_criacao_2.png)
 3. ![Quadrado 3](link_para_sua_criacao_3.png)
 4. ![Quadrado 4](link_para_sua_criacao_4.png)
