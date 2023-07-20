@@ -12,10 +12,42 @@ Olá! Sou Thiago Manno, um desenvolvedor iniciante com conhecimentos básicos em
 - HTML Iniciante
 - CSS Iniciante
 - JavaScript Iniciante
-- Exemplos:
-<br>https://consultaseguros.com.br/<br>
-<br>https://www.belezacuidado2023.com.br<br>
-<br>https://adegadovovo.com.br<br>
-<br>https://amorcaca.vercel.app<br> 
 
-<img src="Alura_perfil.png">
+## Objetivo
+
+Sou um desenvolvedor com conhecimento intermediário em HTML, CSS e JavaScript. Atualmente, estou buscando oportunidades para desenvolver minhas habilidades e adquirir experiência prática em projetos reais.
+
+## Perfil Profissional
+
+Desenvolvedor Front-end com conhecimento intermediário em HTML e CSS, buscando aprimorar suas habilidades por meio de uma graduação em Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul, além de cursos na Alura.
+
+Experiência na área de logística, aplicando habilidades de programação para otimizar processos. Habilidades sólidas na criação de interfaces e layouts responsivos. Capacidade de transformar designs em código limpo e semântico. Conhecimento das melhores práticas de acessibilidade e usabilidade. Comprometido em oferecer experiências visuais atraentes e intuitivas para os usuários.
+
+## Habilidades
+
+Organizado, proativo, dinâmico, flexível, ético, curioso, gosto de desafios. Capacidade de persuasão e foco em resultados.
+
+## Projetos
+
+- **Corretora Consulta Seguros** - [Veja mais 🛻 🏠](https://www.consultaseguros.com.br)
+- **Vinhos de São Roque “Adega do Vovô”** - [Veja mais 🍷](https://www.adegadovovo.com.br)
+- **Uma declaração de amor 💕, 13 Anos de casado** - [Veja mais 😘](https://amor-caca-thiagomanno.vercel.app)
+
+## Site Pessoal
+
+Você pode conhecer mais sobre mim e meus projetos acessando o meu site pessoal em diferentes idiomas:
+
+- **Português (Brasil)** - [www.curriculothiagomanno.com/](https://www.curriculothiagomanno.com/)
+- **Espanhol** - [www.curriculothiagomanno.com/espanhol.html](https://www.curriculothiagomanno.com/espanhol.html)
+- **Inglês** - [www.curriculothiagomanno.com/ingles.html](https://www.curriculothiagomanno.com/ingles.html)
+
+## Criações do Meu Perfil
+
+Aqui estão alguns dos meus trabalhos e criações:
+
+1. ![Quadrado 1](link_para_sua_criacao_1.png)
+2. ![Quadrado 2](link_para_sua_criacao_2.png)
+3. ![Quadrado 3](link_para_sua_criacao_3.png)
+4. ![Quadrado 4](link_para_sua_criacao_4.png)
+5. ![Quadrado 5](link_para_sua_criacao_5.png)
+
