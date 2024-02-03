@@ -27,11 +27,6 @@ Experiência na área de logística, aplicando habilidades de programação para
 
 Organizado, proativo, dinâmico, flexível, ético, curioso, gosto de desafios. Capacidade de persuasão e foco em resultados.
 
-## Projetos
-
-- **Corretora Consulta Seguros** - [Veja mais 🛻 🏠](https://www.consultaseguros.com.br)
-- **Vinhos de São Roque “Adega do Vovô”** - [Veja mais 🍷](https://www.adegadovovo.com.br)
-- **Uma declaração de amor 💕, 13 Anos de casado** - [Veja mais 😘](https://amor-caca-thiagomanno.vercel.app)
 
 ## Site Pessoal
 
